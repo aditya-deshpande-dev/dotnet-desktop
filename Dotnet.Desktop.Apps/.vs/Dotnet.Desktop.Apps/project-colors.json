@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cd1a6ba-b473-4b5a-afc1-4d210a97f810": {
+      "ProjectGuid": "1cd1a6ba-b473-4b5a-afc1-4d210a97f810",
+      "DisplayName": "Console.ProgressBar",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

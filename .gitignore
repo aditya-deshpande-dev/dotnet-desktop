@@ -5,3 +5,5 @@
 /.vs
 /Dotnet.Desktop.Apps/Console.ProgressBar/bin/Debug/net6.0
 /Dotnet.Desktop.Apps/Console.ProgressBar/obj
+/Dotnet.Desktop.Apps/BL.Inventory/obj
+/Dotnet.Desktop.Apps/Console.Inventory/obj
